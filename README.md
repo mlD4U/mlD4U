@@ -2,12 +2,11 @@
 <h3 align="center">A passionate Software (Web) Engineer</h3>
 
 - 🌱 I’m currently pushing further **My Limits**
-- 👨‍💻 All of my projects are available at [https://github.com/mlD4U?tab=projects](https://github.com/mlD4U?tab=projects)
+- 👨‍💻 All of my repositories are available at [https://github.com/mlD4U?tab=repositories](https://github.com/mlD4U?tab=projects](https://github.com/mlD4U?tab=repositories)
 - 💬 Ask me about **LAMP, Laravel, Servers, Scraping/Crawling**
 - 📫 How to reach me **mllaftiu@digital4u.gr**
 - 📄 Know about my experiences [https://gr.linkedin.com/in/mihail-llaftiu-b9740260](https://gr.linkedin.com/in/mihail-llaftiu-b9740260)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
